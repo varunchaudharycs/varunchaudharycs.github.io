@@ -1,6 +1,7 @@
 ## Welcome to my website
 
-I am a Master's student in Computer Science at Arizona State University(GPA: 3.89, gradutation: MAY 2021). My brain is occupied mostly by intelligent and distributed systems. Additionally, I love to talk about explainable AI.
+I am a Master's student in Computer Science at Arizona State University with an expected graduation date of May 2021.
+My brain is occupied mostly by intelligent and distributed systems. Additionally, I love to talk about explainable AI.
 
 !.[The Sun Devil Life](https://photos.app.goo.gl/kZZTVVYHYVUzWrbNA)
 
