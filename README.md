@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/varunchaudharycs/varunchaudharycs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Master's student in Computer Science at Arizona State University. My brain is occupied mostly by intelligent and distributed systems. Additionally, I love to talk about explanable AI.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+!.[The Sun Devil Life](https://photos.app.goo.gl/kZZTVVYHYVUzWrbNA)
 
-### Markdown
+You may go directly to my [repository list:](https://github.com/varunchaudharycs?tab=repositories) to check-out my projects- both coursework and hobby.
+
+### Reward Function
+
+I'm looking for **Summer 2020 Internship** opportunities in my field of interest wherein I may make a difference for th societal progress.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
