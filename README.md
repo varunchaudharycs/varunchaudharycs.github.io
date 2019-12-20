@@ -4,7 +4,7 @@ I am a Master's student in Computer Science at Arizona State University. My brai
 
 !.[The Sun Devil Life](https://photos.app.goo.gl/kZZTVVYHYVUzWrbNA)
 
-You may go directly to my [repository list:](https://github.com/varunchaudharycs?tab=repositories) to check-out my projects- both coursework and hobby.
+You may go directly to my [repository list:](https://github.com/varunchaudharycs?tab=repositories) to check-out my projects- both hobby and coursework.
 
 ### I'm looking for ...
 
