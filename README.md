@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-I am Master's student in Computer Science at Arizona State University. My brain is occupied mostly by intelligent and distributed systems. Additionally, I love to talk about explanable AI.
+I am a Master's student in Computer Science at Arizona State University. My brain is occupied mostly by intelligent and distributed systems. Additionally, I love to talk about explanable AI.
 
 !.[The Sun Devil Life](https://photos.app.goo.gl/kZZTVVYHYVUzWrbNA)
 
@@ -8,7 +8,7 @@ You may go directly to my [repository list:](https://github.com/varunchaudharycs
 
 ### Reward Function
 
-I'm looking for **Summer 2020 Internship** opportunities in my field of interest wherein I may make a difference for th societal progress.
+I'm looking for **Summer 2020 Internship** opportunities in my field of interest wherein I may make a difference for societal progress.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
