@@ -40,4 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Let's Connect ...
 
-over [LinkedIN](https://www.linkedin.com/in/varun-chaudhary-cs/), [Github](https://github.com/varunchaudharycs) or directly via [mail](mailto:varunchaudharycs@gmail.com?subject=[GitHub.io]%20Source%20Han%20Sans).
+over [LinkedIN](https://www.linkedin.com/in/varun-chaudhary-cs/), [Github](https://github.com/varunchaudharycs) or directly via [mail](mailto:varunchaudharycs@gmail.com?subject=[GitHub.io]).
