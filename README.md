@@ -8,7 +8,7 @@ You may go directly to my [repository list](https://github.com/varunchaudharycs?
 
 ### I'm looking for ...
 
-a **Summer 2020 Internship** opportunities in my field of interest wherein I may make a difference for societal progress.
+... **Summer 2020 Internship** opportunities in my field of interest wherein I may make a difference for societal progress.
 
 I'm always on the hunt for project ideas that interest me. A sleepless night on a great idea is the most peaceful time.
 
@@ -40,4 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Let's Connect ...
 
-over [LinkedIN](https://www.linkedin.com/in/varun-chaudhary-cs/), [GitHub](https://github.com/varunchaudharycs) or directly via [Mail](mailto:varunchaudharycs@gmail.com?subject=[GitHub.io]).
+... over [LinkedIN](https://www.linkedin.com/in/varun-chaudhary-cs/), [GitHub](https://github.com/varunchaudharycs) or directly via [Mail](mailto:varunchaudharycs@gmail.com?subject=[GitHub.io]).
