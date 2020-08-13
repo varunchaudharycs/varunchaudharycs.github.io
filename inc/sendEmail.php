@@ -3,6 +3,9 @@
 // Replace this with your own email address
 $siteOwnersEmail = 'varunchaudharycs@gmail.com';
 
+// domain name
+$domain= 'varunchaudharycs.github.io';
+
 
 if($_POST) {
 
